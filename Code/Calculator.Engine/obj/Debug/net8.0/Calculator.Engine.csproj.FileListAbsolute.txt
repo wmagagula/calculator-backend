@@ -1,0 +1,11 @@
+C:\Dev\calculator\backend\Code\Calculator.Engine\bin\Debug\net8.0\Calculator.Engine.deps.json
+C:\Dev\calculator\backend\Code\Calculator.Engine\bin\Debug\net8.0\Calculator.Engine.dll
+C:\Dev\calculator\backend\Code\Calculator.Engine\bin\Debug\net8.0\Calculator.Engine.pdb
+C:\Dev\calculator\backend\Code\Calculator.Engine\obj\Debug\net8.0\Calculator.Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\calculator\backend\Code\Calculator.Engine\obj\Debug\net8.0\Calculator.Engine.AssemblyInfoInputs.cache
+C:\Dev\calculator\backend\Code\Calculator.Engine\obj\Debug\net8.0\Calculator.Engine.AssemblyInfo.cs
+C:\Dev\calculator\backend\Code\Calculator.Engine\obj\Debug\net8.0\Calculator.Engine.csproj.CoreCompileInputs.cache
+C:\Dev\calculator\backend\Code\Calculator.Engine\obj\Debug\net8.0\Calculator.Engine.dll
+C:\Dev\calculator\backend\Code\Calculator.Engine\obj\Debug\net8.0\refint\Calculator.Engine.dll
+C:\Dev\calculator\backend\Code\Calculator.Engine\obj\Debug\net8.0\Calculator.Engine.pdb
+C:\Dev\calculator\backend\Code\Calculator.Engine\obj\Debug\net8.0\ref\Calculator.Engine.dll

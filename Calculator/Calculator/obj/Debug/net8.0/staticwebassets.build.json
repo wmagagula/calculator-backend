@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TpTEK7gQcXaFnrWCpmaD02uiIJ5dhBBkYjvx5iQu1tM=",
+  "Source": "Calculator.WebApi",
+  "BasePath": "_content/Calculator.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
