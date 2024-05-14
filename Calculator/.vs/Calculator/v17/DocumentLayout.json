@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\calculator\\backend\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D791E4F1-B34B-459D-AEC0-1D078BB68E3B}|Calculator\\Calculator.WebApi.csproj|c:\\dev\\calculator\\backend\\calculator\\calculator\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D791E4F1-B34B-459D-AEC0-1D078BB68E3B}|Calculator\\Calculator.WebApi.csproj|solutionrelative:calculator\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE09901-9D14-4B25-89AB-AFBFCB14FE93}|..\\Code\\Calculator.Engine\\Calculator.Engine.csproj|c:\\dev\\calculator\\backend\\code\\calculator.engine\\classes\\calculatorengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE09901-9D14-4B25-89AB-AFBFCB14FE93}|..\\Code\\Calculator.Engine\\Calculator.Engine.csproj|c:\\dev\\calculator\\backend\\code\\calculator.engine\\dto\\expressiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE09901-9D14-4B25-89AB-AFBFCB14FE93}|..\\Code\\Calculator.Engine\\Calculator.Engine.csproj|c:\\dev\\calculator\\backend\\code\\calculator.engine\\dto\\expressionresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE09901-9D14-4B25-89AB-AFBFCB14FE93}|..\\Code\\Calculator.Engine\\Calculator.Engine.csproj|c:\\dev\\calculator\\backend\\code\\calculator.engine\\exceptions\\computeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D791E4F1-B34B-459D-AEC0-1D078BB68E3B}|Calculator\\Calculator.WebApi.csproj|c:\\dev\\calculator\\backend\\calculator\\calculator\\repository\\calculatorstaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D791E4F1-B34B-459D-AEC0-1D078BB68E3B}|Calculator\\Calculator.WebApi.csproj|solutionrelative:calculator\\repository\\calculatorstaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D791E4F1-B34B-459D-AEC0-1D078BB68E3B}|Calculator\\Calculator.WebApi.csproj|c:\\dev\\calculator\\backend\\calculator\\calculator\\repository\\icalculatorstaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D791E4F1-B34B-459D-AEC0-1D078BB68E3B}|Calculator\\Calculator.WebApi.csproj|solutionrelative:calculator\\repository\\icalculatorstaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE09901-9D14-4B25-89AB-AFBFCB14FE93}|..\\Code\\Calculator.Engine\\Calculator.Engine.csproj|c:\\dev\\calculator\\backend\\code\\calculator.engine\\enums\\operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D791E4F1-B34B-459D-AEC0-1D078BB68E3B}|Calculator\\Calculator.WebApi.csproj|c:\\dev\\calculator\\backend\\calculator\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D791E4F1-B34B-459D-AEC0-1D078BB68E3B}|Calculator\\Calculator.WebApi.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE09901-9D14-4B25-89AB-AFBFCB14FE93}|..\\Code\\Calculator.Engine\\Calculator.Engine.csproj|c:\\dev\\calculator\\backend\\code\\calculator.engine\\interfaces\\icalculatorengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D791E4F1-B34B-459D-AEC0-1D078BB68E3B}|Calculator\\Calculator.WebApi.csproj|c:\\dev\\calculator\\backend\\calculator\\calculator\\models\\computeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D791E4F1-B34B-459D-AEC0-1D078BB68E3B}|Calculator\\Calculator.WebApi.csproj|solutionrelative:calculator\\models\\computeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComputeException.cs",
+              "DocumentMoniker": "C:\\Dev\\calculator\\backend\\Code\\Calculator.Engine\\Exceptions\\ComputeException.cs",
+              "RelativeDocumentMoniker": "..\\Code\\Calculator.Engine\\Exceptions\\ComputeException.cs",
+              "ToolTip": "C:\\Dev\\calculator\\backend\\Code\\Calculator.Engine\\Exceptions\\ComputeException.cs",
+              "RelativeToolTip": "..\\Code\\Calculator.Engine\\Exceptions\\ComputeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:01:06.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Dev\\calculator\\backend\\Calculator\\Calculator\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "Calculator\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Dev\\calculator\\backend\\Calculator\\Calculator\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "Calculator\\Controllers\\CalculatorController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAIA4wEwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:58:34.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ComputeResponse.cs",
+              "DocumentMoniker": "C:\\Dev\\calculator\\backend\\Calculator\\Calculator\\Models\\ComputeResponse.cs",
+              "RelativeDocumentMoniker": "Calculator\\Models\\ComputeResponse.cs",
+              "ToolTip": "C:\\Dev\\calculator\\backend\\Calculator\\Calculator\\Models\\ComputeResponse.cs",
+              "RelativeToolTip": "Calculator\\Models\\ComputeResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:43:59.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculatorStateRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\calculator\\backend\\Calculator\\Calculator\\Repository\\CalculatorStateRepository.cs",
+              "RelativeDocumentMoniker": "Calculator\\Repository\\CalculatorStateRepository.cs",
+              "ToolTip": "C:\\Dev\\calculator\\backend\\Calculator\\Calculator\\Repository\\CalculatorStateRepository.cs",
+              "RelativeToolTip": "Calculator\\Repository\\CalculatorStateRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAlwAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:28:24.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICalculatorStateRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\calculator\\backend\\Calculator\\Calculator\\Repository\\ICalculatorStateRepository.cs",
+              "RelativeDocumentMoniker": "Calculator\\Repository\\ICalculatorStateRepository.cs",
+              "ToolTip": "C:\\Dev\\calculator\\backend\\Calculator\\Calculator\\Repository\\ICalculatorStateRepository.cs",
+              "RelativeToolTip": "Calculator\\Repository\\ICalculatorStateRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:24:46.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorEngine.cs",
+              "DocumentMoniker": "C:\\Dev\\calculator\\backend\\Code\\Calculator.Engine\\Classes\\CalculatorEngine.cs",
+              "RelativeDocumentMoniker": "..\\Code\\Calculator.Engine\\Classes\\CalculatorEngine.cs",
+              "ToolTip": "C:\\Dev\\calculator\\backend\\Code\\Calculator.Engine\\Classes\\CalculatorEngine.cs",
+              "RelativeToolTip": "..\\Code\\Calculator.Engine\\Classes\\CalculatorEngine.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIA2wBwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:23:17.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpressionResultDto.cs",
+              "DocumentMoniker": "C:\\Dev\\calculator\\backend\\Code\\Calculator.Engine\\Dto\\ExpressionResultDto.cs",
+              "RelativeDocumentMoniker": "..\\Code\\Calculator.Engine\\Dto\\ExpressionResultDto.cs",
+              "ToolTip": "C:\\Dev\\calculator\\backend\\Code\\Calculator.Engine\\Dto\\ExpressionResultDto.cs",
+              "RelativeToolTip": "..\\Code\\Calculator.Engine\\Dto\\ExpressionResultDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:07:43.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICalculatorEngine.cs",
+              "DocumentMoniker": "C:\\Dev\\calculator\\backend\\Code\\Calculator.Engine\\Interfaces\\ICalculatorEngine.cs",
+              "RelativeDocumentMoniker": "..\\Code\\Calculator.Engine\\Interfaces\\ICalculatorEngine.cs",
+              "ToolTip": "C:\\Dev\\calculator\\backend\\Code\\Calculator.Engine\\Interfaces\\ICalculatorEngine.cs",
+              "RelativeToolTip": "..\\Code\\Calculator.Engine\\Interfaces\\ICalculatorEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:04:54.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpressionDto.cs",
+              "DocumentMoniker": "C:\\Dev\\calculator\\backend\\Code\\Calculator.Engine\\Dto\\ExpressionDto.cs",
+              "RelativeDocumentMoniker": "..\\Code\\Calculator.Engine\\Dto\\ExpressionDto.cs",
+              "ToolTip": "C:\\Dev\\calculator\\backend\\Code\\Calculator.Engine\\Dto\\ExpressionDto.cs",
+              "RelativeToolTip": "..\\Code\\Calculator.Engine\\Dto\\ExpressionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:54:50.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Operators.cs",
+              "DocumentMoniker": "C:\\Dev\\calculator\\backend\\Code\\Calculator.Engine\\Enums\\Operators.cs",
+              "RelativeDocumentMoniker": "..\\Code\\Calculator.Engine\\Enums\\Operators.cs",
+              "ToolTip": "C:\\Dev\\calculator\\backend\\Code\\Calculator.Engine\\Enums\\Operators.cs",
+              "RelativeToolTip": "..\\Code\\Calculator.Engine\\Enums\\Operators.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:46:46.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\calculator\\backend\\Calculator\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Dev\\calculator\\backend\\Calculator\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAzwAkAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:42:58.203Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
